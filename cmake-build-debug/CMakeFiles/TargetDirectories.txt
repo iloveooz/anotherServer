@@ -1,3 +1,0 @@
-/home/fahr/git/anotherServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/fahr/git/anotherServer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/fahr/git/anotherServer/cmake-build-debug/CMakeFiles/anotherServer.dir
